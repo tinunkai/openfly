@@ -76,7 +76,7 @@ translator:
     - "^z.*$"
 
 history:
-  input: ;f
+  input: ;h
   size: 1
   initial_quality: 1
 
@@ -99,9 +99,3 @@ recognizer:
     uppercase: ""
     reverse_lookup: "[a-z`]*`+[a-z`]*"
     punct: ""
-
-menu:
-  page_size: 5
-
-style:
-  horizontal: false

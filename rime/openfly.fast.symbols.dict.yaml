@@ -14,15 +14,14 @@ version: "v9.9m"
 sort: by_weight
 use_preset_vocabulary: false
 ...
-：	;
 ；	;
+：	;;
 ！	;a
 》	;b
 ”	;c
 、	;d
 （	;e
 《	;g
-《》	;h
 〈	;i
 “”	;j
 （）	;k
@@ -32,9 +31,9 @@ use_preset_vocabulary: false
 ～	;p
 ：“	;q
 ）	;r
-……	;s
+…	;s
 @	;t
-——	;v
+—	;v
 ？	;w
 →	;x
 ·	;y
